@@ -1,1 +1,1 @@
-var playlist = {Slowdive: "Alison"};
+var playlist = {: "Alison"};
